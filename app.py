@@ -63,7 +63,7 @@ project:
 **Key finding:** CRP (an inflammation marker) and Vitamin D are stronger
 predictors here than BMI or cholesterol.
 
-[View the full project on GitHub](https://github.com/<your-username>/<your-repo>)
+[View the full project on GitHub](https://github.com/alexh30486-ui/Predicting-Gallstone-Disease-from-Body-Composition-Blood-Chemistry)
 """
     )
 
